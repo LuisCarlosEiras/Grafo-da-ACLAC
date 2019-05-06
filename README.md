@@ -4,7 +4,7 @@ Grafo da **ACLAC** - Academia Cambuiense de Letras, Artes e Ciências -  com os 
 
 Arquivo _aclacdsaenvio.zip_ contém o grafo no formato png, arquivo ACLACDSA.gephi para ser aberto com o programa Gephi e o dataset Patronos e acadêmicos.xlsx
 
-Versão 2018
+***Versão 2018***
 
 1 - faça download do arquivo _aclac.jar_;
 
