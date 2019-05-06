@@ -1,4 +1,4 @@
-Grafo da **ACLAC** - Academia Cambuiense de Letras, Artes e Ciências -  com os 40 patronos e 40 acadêmicos e suas ligações de parentesco por sobrenomes - em duas versões.
+Grafo da **ACLAC** - Academia Cambuiense de Letras, Artes e Ciências -  com os 40 patronos e 40 acadêmicos e suas ligações de parentesco por sobrenomes - em duas versões:
 
 ***Versão 2019***
 
