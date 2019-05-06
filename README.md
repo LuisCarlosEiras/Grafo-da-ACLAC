@@ -1,6 +1,8 @@
-Grafo da **ACLAC** - Academia Cambuiense de Letras, Artes e Ciências -  com patronos, acadêmicos e sobrenomes em java.
+Grafo da **ACLAC** - Academia Cambuiense de Letras, Artes e Ciências -  com patronos, acadêmicos e sobrenomes em duas versões.
 
-1 - faça download do arquivo acima _aclac.rar_ numa pasta;
+Versão 2018
+
+1 - faça download do arquivo _aclac.jar_;
 
 2 - clique com o botão direito e depois em _Extract Here_;
 
