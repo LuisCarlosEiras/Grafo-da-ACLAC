@@ -1,6 +1,6 @@
 Grafo da **ACLAC** - Academia Cambuiense de Letras, Artes e Ciências -  com os 40 patronos e 40 acadêmicos e suas ligações de parentesco por sobrenomes - em duas versões.
 
-Versã0 2019
+***Versão 2019***
 
 Arquivo _aclacdsaenvio.zip_ contém o grafo no formato png, arquivo ACLACDSA.gephi para ser aberto com o programa Gephi e o dataset Patronos e acadêmicos.xlsx
 
